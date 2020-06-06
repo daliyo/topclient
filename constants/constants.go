@@ -7,7 +7,7 @@ const (
 	SIGN_METHOD_MD5            = "md5"
 	SIGN_METHOD_HMAC           = "hmac"
 	SIGN_METHOD_HMAC_SHA256    = "hmac-sha256"
-	LOG_FILE_NAME              = "topsdk.log"
+	LOG_FILE_NAME              = "topclient.log"
 	ACCEPT_ENCODING            = "Accept-Encoding"
 	CONTENT_ENCODING           = "Content-Encoding"
 	CONTENT_ENCODING_GZIP      = "gzip"

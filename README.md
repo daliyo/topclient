@@ -1,5 +1,5 @@
-# topsdk
-淘宝开放平台SDK go-topsdk
+# topclient
+淘宝开放平台SDK go-topclient
 
 ## sample
 
@@ -22,7 +22,7 @@ func checkErr(err error) {
 
 func main() {
 	apiGateway, appKey, appSecret := "", "", ""
-	client, err := topsdk.NewTopClient(apiGateway, appKey, appSecret)
+	client, err := topclient.NewTopClient(apiGateway, appKey, appSecret)
 	checkErr(err)
 
 	req := requests.NewTaobaoTimeGetRequest()

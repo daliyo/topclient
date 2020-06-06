@@ -1,4 +1,4 @@
-package topsdk
+package topclient
 
 import (
 	"crypto/hmac"
