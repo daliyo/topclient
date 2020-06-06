@@ -1,3 +1,3 @@
-module github.com/daliyo/topsdk
+module github.com/daliyo/topclient
 
 go 1.13

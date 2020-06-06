@@ -6,11 +6,11 @@
 ```golang
 package main
 
-import "github.com/daliyo/topsdk"
+import "github.com/daliyo/topclient"
 
-import "github.com/daliyo/topsdk/requests"
+import "github.com/daliyo/topclient/requests"
 
-import "github.com/daliyo/topsdk/responses"
+import "github.com/daliyo/topclient/responses"
 
 import "fmt"
 

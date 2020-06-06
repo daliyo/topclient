@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/daliyo/topsdk/constants"
-	"github.com/daliyo/topsdk/requests"
+	"github.com/daliyo/topclient/constants"
+	"github.com/daliyo/topclient/requests"
 )
 
 var (
